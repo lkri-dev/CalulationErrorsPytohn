@@ -4,7 +4,7 @@ Press Shift+F10 to execute it or replace it with your code.
 Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 Dette program er lavet til at øve fejlfinding i kode.
-Her er et program som skal udregne Ohm lov, et af reasultaterne er forkerte. Hvorfor?
+Her er et program som skal udregne Ohm lov, et af resultaterne er forkert. Hvorfor?
 """
 import os
 

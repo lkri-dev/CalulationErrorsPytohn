@@ -4,7 +4,7 @@ Press Shift+F10 to execute it or replace it with your code.
 Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 Dette program er lavet til at øve fejlfinding i kode.
-Her er et program som skal udregne BMI baseret på en vægt i kg og en højde i m, det giver er ferkert resuiltat. Hvorfor?
+Her er et program som skal udregne BMI baseret på en vægt i kg og en højde i m, det giver er forkert resultat. Hvorfor?
 """
 
 def bmi_udregner(vaegt, hoejde):
