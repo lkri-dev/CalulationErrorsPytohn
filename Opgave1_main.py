@@ -12,6 +12,6 @@ def bmi_udregner(vaegt, hoejde):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    kg = input('Indtast en vægt i kg')
-    m = input('Indtast en højde i m')
+    kg = float(input('Indtast en vægt i kg'))
+    m = float(input('Indtast en højde i m'))
     print(bmi_udregner(kg, m))
